@@ -1,0 +1,57 @@
+
+/*
+
+What serialization is?
+
+Serialization is objects encoding into other language. For example you have an array in PHP like this:
+
+$array = array("a" => 1, "b" => 2, "c" => array("a" => 1, "b" => 2));
+
+And then you want to store it in file or send to other application.
+
+There are multiple choices of languages, but the idea is the same: 
+That array has to be encoded (or translated) into text or bytes, that can be written to file or sent
+ via network. For example, if you
+
+$data = serialize($array);
+
+you will get this:
+
+a:3:{s:1:"a";i:1;s:1:"b";i:2;s:1:"c";a:2:{s:1:"a";i:1;s:1:"b";i:2;}}
+
+This is PHP's particular serializing format that PHP understands and it works vice versa so
+ you are able to use it to deserialize objects.
+ For example, you stored an array in file and you want it back in your code:
+
+$array = unserialize($data);
+
+
+
+But you could choose another serialization format, for example, JSON.
+
+$json = json_encode($array);
+
+will give you this:
+
+{"a":1,"b":2,"c":{"a":1,"b":2}}
+
+Result that is not only easily saved, read by human eye or sent via network, 
+but is understandable to almost every other language (Javascript, Java, C#, C++.....)
+
+Conclusion Serialization is object translation to other language, in case you want to store or share data.
+
+Are there any situations, where you cannot do anything, but serialize it?
+
+No. But serialization usually makes things easier.
+
+Are JSON and PHP format the only possible formats?
+ No, no, no and one more time no. There are plenty of formats.
+
+    XML which has successors like SOAP, WSDL, etc (those have particular purpose)
+    Bytes
+    ...
+    ...
+    ...
+    Your own formats (you can create your own format for serialization and use it, but that is a big thing to do and is not worth it, most of the time)
+
+*/

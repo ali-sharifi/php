@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<!-- Page updated by Marqui on: 2/27/2015 1:47:58 PM bcit2 p58s3 7.0.0000.0072 -->
+<html class="nojs" lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+<title>BCIT : : British Columbia Institute of Technology</title>
+<meta name="fulltitle" content="BCIT : : British Columbia Institute of Technology">
+
+<!-- BEGIN VARIABLES -->
+
+<!--
+bcit, british columbia institute of technology, post secondary education, technology education, trades education, business education, health education
+
+British Columbia Institute of Technology is one of BC's largest post-secondary institutions. BCIT offers courses and programs in technology, trades, engineering, business, and health.
+-->
+
+<!-- meta -->
+<meta name="classification" content="Education">
+<meta name="keywords" content="bcit, british columbia institute of technology, post secondary education, technology education, trades education, business education, health education">
+<meta name="description" content="British Columbia Institute of Technology is one of BC's largest post-secondary institutions. BCIT offers courses and programs in technology, trades, engineering, business, and health.">
+<meta name="lastUpdated" content="Fri, 13 Feb 2015 09:13:00 GMT">
+<meta name="revisit-after" content="7 days">
+<meta name="viewport" content="width=1000">
+<meta property="og:image" content="/images/icons/logo_bcit_forfacebook.png">
+<meta name="marqui" content="Http://na14.marqui.com/bcit2/sm/smpage.aspx?i=58&l=1">
+<!--googleoff: all--><meta name="updatedBy" content="Peter Weckworth"><!--googleon: all-->
+
+<!-- css -->
+<link rel="stylesheet" href="/_Website_Settings/v4_global.min.css?20141210" media="screen, print">
+
+
+
+<!-- for Marqui: <link rel="stylesheet" class="IncludedCSS" href="/_Website_Settings/v4_marqui_pages.css" media="screen"> -->
+
+<style>
+/* minified version of v4_home.css */
+#prospective.t_compartment{position:relative;width:934px;padding-top:25px;padding-bottom:30px;background-color:#fff;font-size:14px;outline:0}#prospective .article{float:left;width:25%}#prospective .article h2{padding:0 10px;font-size:18px;line-height:18px}#prospective_follow{margin-top:15px}.stdlist{margin:0;padding:13px 0 0 27px;list-style-type:none}.stdlist li{float:left;padding-right:9px}#features{position:relative;background:#898989 url(/images/chrome/features_body.gif) top center repeat-y}@media screen and (-webkit-min-device-pixel-ratio:0){#features{background-position-x:49.99%}}#features .t_compartment{position:relative;width:970px;padding:0;background-color:#F0F0F0}#flexispace{float:left;width:510px;min-height:340px;background:transparent url(/images/chrome/features_news_shadow.gif) top right no-repeat;padding:20px 30px 10px 15px}#features_programs{float:left;width:280px;padding-right:20px}#features_programs h2{font-size:18px;line-height:18px}.cycle_list{margin:0;padding:0;list-style-type:none}.cycle_list .cycle_panel{margin:0;padding:0;display:block}.featured_programs{margin:0;padding:0}.featured_programs li{margin:0;border-top:1px solid #d9d9d9;padding:17px 5px 17px 10px;list-style-type:none}.featured_programs li:first-child{border-top:0}.featured_programs a{text-decoration:none}.featured_programs .program_credential{display:block;color:#666;font-size:11px;text-transform:uppercase}.featured_programs .program_name{display:block;font-size:14px}.featured_programs a:focus .program_name,.featured_programs a:hover .program_name{text-decoration:underline}.featured_programs .program_delivery{display:block;color:#999;font-size:12px;font-style:italic;font-weight:400}#featured_programs .cycle_controls{float:left;margin:0;padding:10px 0 0 10px;font-size:12px}#featured_programs .cycle_controls li{float:left;list-style-type:none}#featured_programs .cycle_controls a{display:block;float:left;margin-right:10px;border:1px solid #d9d9d9;padding:0 4px;color:#333}#featured_programs .cycle_controls a.cycle_next,#featured_programs .cycle_controls a.cycle_prev{width:0;height:1.2em;overflow:hidden;background:#d9d9d9 url(/images/chrome/pagination.gif) top left no-repeat;padding:0 0 0 15px}#featured_programs .cycle_controls a.cycle_next{background-position:top right}#featured_programs .cycle_controls a.cycle_prev:focus,#featured_programs .cycle_controls a.cycle_prev:hover{background-position:bottom left}#featured_programs .cycle_controls a.cycle_next:focus,#featured_programs .cycle_controls a.cycle_next:hover{background-position:bottom right}#featured_programs .cycle_controls a.activeSlide,#featured_programs .cycle_controls a:focus,#featured_programs .cycle_controls a:hover{background-color:#333;color:#d9d9d9;text-decoration:none}#features_promos{float:left;width:210px}#features_promos .article{margin-bottom:20px}#features_news{width:415px;position:absolute;top:0;right:0}#features .t_compartment:after{content:" ";display:block;position:absolute;bottom:0;right:5px;z-index:30;height:20px;width:400px;background-image:-webkit-linear-gradient(left bottom,left top,color-stop(0.29,rgba(240,240,240,1)),color-stop(0.65,rgba(240,240,240,.5)),color-stop(1,rgba(240,240,240,0)));background-image:-moz-linear-gradient(center bottom,rgba(240,240,240,1)29%,rgba(240,240,240,.5)65%,rgba(240,240,240,0)100%);background-image:linear-gradient(center bottom,rgba(240,240,240,1)29%,rgba(240,240,240,.5)65%,rgba(240,240,240,0)100%)}.tabbednews{position:relative;float:left;margin-top:-20px;font-size:12px}.tabbednews_nav{float:left;margin:0;padding:0}.tabbednews_nav li{float:left;list-style-type:none}.t_main .tabbednews_nav a{float:left;margin-right:1px;padding:20px 15px 5px;background:#3b74bb url(/images/chrome/features_news_tab.gif) top left repeat-x}.t_main .tabbednews_nav a:focus,.t_main .tabbednews_nav a:hover{background:#2960a7}.t_main .tabbednews_nav a:focus,.t_main .tabbednews_nav a:hover,.t_main .tabbednews_nav a:visited{color:#fff}.hasjs .tabbednews h3,.hasjs .ui-tabs-hide{display:none}.t_main .tabbednews_nav a{color:#fff}.t_main .tabbednews_nav .ui-tabs-selected a{background:#f0f0f0;color:#666}.tabbednews .article{position:relative;clear:left;padding:10px 5px 10px 10px}.tabbednews .article h3{padding-bottom:5px}.tabbednews .article ul{overflow:auto;margin:0;padding:0}.tabbednews .article li{margin-bottom:3px;background-color:#FFF;padding:13px;list-style-type:none}.tabbednews .intro{margin:0 0 7px;border:1px solid #999;padding:13px;color:#666}.tabbednews .article .fancylist li{list-style-type:none}#news_blog .fancylist li{margin:0 0 3px}.tabbednews .readmore{position:absolute;top:0;right:10px;margin:0}.hasjs .tabbednews .readmore{top:-13px}.tabbednews .readmore a{font-size:11px;font-weight:400}.hasjs #features_news h3,.nojs #news_blog,.tabbednews .pb_head{display:none}.tabbednews .jfeed_bloglink{display:none!important}.tabbednews .relatedlinks{display:none}#footer a{font-weight:700}#footer_about img{float:left;margin-top:16px;padding:4px;border:1px solid #5791d3}#footer_about p{margin:14px 30px 16px 205px;line-height:14px}#footer_home{display:none}#footer .t_compartment.fineprint{text-align:right}#footer_webmaster{float:left}#footer_copyright{background-image:none}#footer_privacy{margin-left:8px}
+</style>
+<link rel="stylesheet" href="/js/jquery.fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+
+<!-- javascript (that must be in the head) -->
+<script>document.getElementsByTagName('html')[0].className = 'hasjs';</script>
+<script src="/js/jquery-1.11.1.min.js"></script>
+<script src="/_Website_Settings/v4_global.min.js"></script>
+<!--[if lte IE 8]><script src="/js/html5.js"></script><![endif]-->
+
+
+
+<script src="/js/jquery.cycle.all.min.js"></script>
+<script src="/js/jquery.bcit.cycle.min.js"></script>
+<script>
+$(function() {
+      $("#cycle_banner").bcitCycle({ timeout: 7500 });
+});
+</script>
+
+
+
+<script type="text/javascript" src="/js/jquery.bcit.feedpageblock.min.js"></script>
+<script type="text/javascript" src="/js/jquery.fancybox/jquery.fancybox.pack.js"></script>
+
+<script>
+;(function($) {
+    $(document).ready(function() {
+        // setup the feature tabs and attach the blog feed
+        $("#features_news").tabs({fx: {opacity:'toggle', duration:'fast'}});
+        $('#features_news').bind('tabsshow', function(event, ui) {
+            if (typeof(pageTracker) == 'object') {
+                pageTracker._trackEvent('homepage', 'feature_views', ui.panel.id.substring(5));
+            }
+        });
+        $("#news_blog .jfeed_result").feedPageblock("http://commons.bcit.ca/update/feed/",
+            {
+                postsToDisplay: 6,
+                displayDescription: "block",
+                displayDate: "none"
+            });
+        $("#news_news .jfeed_result").feedPageblock("http://commons.bcit.ca/update/category/news-releases/feed/",
+            {
+                postsToDisplay: 5,
+                displayDescription: "block",
+                displayDate: "none"
+            });
+        
+        // setup any fancybox content on the page
+        $('.fancybox').fancybox({
+            padding : 0,
+            autoSize : false,
+            width : 655,
+			height: 410
+        });
+    });
+})(jQuery);
+</script>
+
+
+<!-- analytics -->
+<script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript" src="/js/gatag.js"></script>
+
+<!-- rss -->
+<link href="http://commons.bcit.ca/update/feed/" rel="alternate" title="The Update Blog" type="application/rss+xml">
+
+<!-- this page -->
+
+<meta name="google-site-verification" content="lCL-vX5WcRTRz5zmrM_eE-UZiiOu1DyErSG2v_oR7gI" />
+<script src="/js/jquery-ui-1.11.2.custom/jquery-ui.min.js"></script>
+<script src="/js/jquery.cookie.min.js"></script>
+
+
+</head>
+<body class="t_home">
+<a class="skiplink" href="#prospective" id="top">Skip navigation.</a>
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-SDML"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-SDML');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+<!-- header -->
+<header id="t_header_general" role="banner" class="noprint">
+<div class="section">
+<h1 id="logo" class="t_compartment"><a href="/" class="nav_bcit"><abbr title="British Columbia Institute of Technology">BCIT</abbr></a></h1>
+
+<!-- nav_site -->
+<nav id="nav_site" role="navigation">
+<h2 class="ally">Secondary Site Navigation</h2>
+<ul>
+<li class="nav_home"><a href="/">home</a></li>
+<li><a href="https://learn.bcit.ca/">D2L</a></li>
+<li><a href="/mybcit/login/">myBCIT</a></li>
+<li><a href="/about/locations.shtml">Campuses</a></li>
+<li><a href="/contacts/">Contacts</a></li>
+<li><a href="/calendar/">Calendar</a></li>
+<li id="nav_shortcuts"><a href="/a2z/" title="Short cuts." aria-controls="shortcuts">Short Cuts</a></li>
+</ul>
+</nav><!-- /#nav_site -->
+
+<!-- globalsearch -->
+<form id="globalsearch" class="t_compartment" name="globalsearch" method="GET" action="/search/" role="search">
+<h2 class="ally">Site Search</h2>
+<!-- hidden fields -->
+<input type="hidden" name="client" value="bcit">
+<!-- input fields -->
+<fieldset class="hiddenradios">
+<input type="radio" value="bcit" name="site" id="globalsearch_site" checked><label for="globalsearch_site">Site</label>
+<input type="radio" value="programs" name="site" id="globalsearch_programs"><label for="globalsearch_programs">Programs</label>
+<input type="radio" value="courses" name="site" id="globalsearch_courses"><label for="globalsearch_courses">Courses</label>
+</fieldset>
+<input type="text" id="globalsearch_query" class="input_search" name="q" value="">
+<input type="submit" id="globalsearch_submit" value="Search" >
+</form><!-- /#globalsearch -->
+
+<!-- nav_core -->
+<nav id="nav_core" class="t_compartment" role="navigation">
+<h2 class="ally">Site Navigation</h2>
+<ul>
+<li id="study"><h3><a href="/study/">Programs &amp; Courses</a></h3></li>
+<li id="admission"><h3><a href="/admission/">Admission</a></h3></li>
+<li id="studentservices"><h3><a href="/studentservices/">Student Services</a></h3></li>
+<li id="about"><h3><a href="/about/">About BCIT </a></h3></li>
+<li id="appliedresearch"><h3><a href="/appliedresearch/">Research</a></h3></li>
+<li id="connect"><h3><a href="/connect/">Connect</a></h3></li>
+</ul>
+</nav><!-- /#nav_core -->
+</div>
+</header><!-- /#t_header_general -->
+
+
+
+
+<!-- #t_banner -->
+<div id="t_banner" class="section t_compartment">
+    
+
+<!--googleoff: all-->
+<div id="cycle_banner">
+   <ul class="cycle_list">
+      <li class="cycle_panel">
+         <div class="cycle_banner"><a href="/path/engineering/?icn=wit_saraah&amp;icl=homebanner"><img src="/images/v4_entrybanners/bcit_home/home_wit_saarah.jpg" alt="More Than Ready.  BCIT engineering grads are more than ready to succeed in the real world. Explore your options." title="More Than Ready.  BCIT engineering grads are more than ready to succeed in the real world. Explore your options." /></a></div>
+         <div class="cycle_blurb"><h4><a href="/path/engineering/?icn=wit_saraah&amp;icl=homebanner">More Than Ready.  BCIT engineering grads are more than ready to succeed in the real world. Explore your options. <small><span>&gt;</span></small></a></h4></div>
+      </li>
+      <li class="cycle_panel">
+         <div class="cycle_banner"><a href="/aboriginal/speakerseries/?icn=speakerseries&amp;icl=homebanner"><img src="/images/v4_entrybanners/bcit_home/home_speakerseries.jpg" alt="2014/2015 Aboriginal Speaker Series. Aboriginal Title and Your Career at BCIT. Martch 25, 12:30 PM. Join speaker Neil J. Sterritt in person at Town Square D or watch online." title="2014/2015 Aboriginal Speaker Series. Aboriginal Title and Your Career at BCIT. Martch 25, 12:30 PM. Join speaker Neil J. Sterritt in person at Town Square D or watch online." /></a></div>
+         <div class="cycle_blurb"><h4><a href="/aboriginal/speakerseries/?icn=speakerseries&amp;icl=homebanner">2014/2015 Aboriginal Speaker Series. Aboriginal Title and Your Career at BCIT. Martch 25, 12:30 PM. Join speaker Neil J. Sterritt in person at Town Square D or watch online. <small><span>&gt;</span></small></a></h4></div>
+      </li>
+      <li class="cycle_panel">
+         <div class="cycle_banner"><a href="http://commons.bcit.ca/update/2015/03/downtown-selfie-mural-unveiled/?icn=dtcselfie&amp;icl=homebanner"><img src="/images/v4_entrybanners/bcit_home/home_dtcselfie.jpg" alt="Learn more." title="Learn more." /></a></div>
+         <div class="cycle_blurb"><h4><a href="http://commons.bcit.ca/update/2015/03/downtown-selfie-mural-unveiled/?icn=dtcselfie&amp;icl=homebanner">Learn more. <small><span>&gt;</span></small></a></h4></div>
+      </li>
+      <li class="cycle_panel">
+         <div class="cycle_banner"><a href="/pts/?icn=ptsspring2015&amp;icl=homebanner"><img src="/images/v4_entrybanners/bcit_home/home_springpts2015.jpg" alt="Advance your career.  Find a flexible part-time course to fit your schedule. Spring 2015 term registration is now open. Register today." title="Advance your career.  Find a flexible part-time course to fit your schedule. Spring 2015 term registration is now open. Register today." /></a></div>
+         <div class="cycle_blurb"><h4><a href="/pts/?icn=ptsspring2015&amp;icl=homebanner">Advance your career.  Find a flexible part-time course to fit your schedule. Spring 2015 term registration is now open. Register today. <small><span>&gt;</span></small></a></h4></div>
+      </li>
+
+   </ul>
+   <div class="cycle_controls">
+      <a class="cycle_prev" href="#" title="Previous">Previous</a>
+      <a class="cycle_next" href="#" title="Next">Next</a>
+   </div>
+</div><!--googleon: all-->
+
+</div>
+<!-- /#t_banner -->
+
+<!-- #t_content -->
+<section id="t_content">
+
+    <!-- prospective -->
+    <div id="prospective" class="section t_compartment t_main" role="main" tabindex="-1">
+        <div id="prospective_welcome" class="article">
+            <h2>Welcome</h2>
+            <ul class="linklist">
+                <li><a href="/admission/experience/">Prospective Students</a></li>
+                <li><a href="/pts/">Part-time Students</a></li>
+                <li><a href="/international/">International Students</a></li>
+                <li><span><a href="/parents/">Parents</a> &amp; <a href="/counsellorsguide/">Counsellors</a></span></li>
+                <li><a href="/industryservices/">Business &amp; Industry</a></li>
+                <li><span><a href="/alumni/">Alumni</a> &amp; <a href="/foundation/">Donors</a></span></li>
+
+            </ul>
+        </div>
+        <div id="prospective_sectors" class="article">
+            <h2>Learn</h2>
+            <ul class="linklist">
+                <li><a href="/path/appliedsciences/">Applied &amp; Natural Sciences</a></li>
+                <li><a href="/path/business/">Business &amp; Media</a></li>
+                <li><a href="/path/computing/">Computing &amp; IT</a></li>
+                <li><a href="/path/engineering/">Engineering</a></li>
+                <li><a href="/path/health/">Health Sciences</a></li>
+                <li><a href="/path/trades/">Trades &amp; Apprenticeship</a></li>
+            </ul>
+        </div>
+        <div id="prospective_explore" class="article">
+            <h2>Connect</h2>
+            <ul class="linklist">
+                <li><a href="/infosessions/">Attend an Info Session</a></li>
+                <li><a href="/tours/">Sign up for a Tour</a></li>
+                <li><a href="/spendaday/">Spend a Day as a Student</a></li>
+                <li><a href="/advising/">Connect with an Advisor</a></li>
+                <li><a href="http://commons.bcit.ca/update/life-at-bcit/">Read Student Blogs</a></li>
+            </ul>
+        </div>
+        <div id="prospective_enrol" class="article">
+            <h2>Become a Student</h2>
+            <ul class="linklist">
+                <li><a href="/admission/apply/fulltime.shtml">Apply to a Full-time Program</a></li>
+                <li><a href="/admission/register/">Register for a Part-time Studies Course</a></li>
+                <li><a href="/admission/apply/parttime.shtml">Apply to a Part-time Program</a></li>
+
+            </ul>
+        </div>
+        <div id="prospective_follow" class="article">
+            <h2>Follow and share</h2>
+                <ul class="stdlist">
+                    <li><a href="http://twitter.com/bcit" title="Twitter" target="_blank"><img src="/images/icons/logo_twitter_iti.gif" alt="Twitter."></a></li>
+                    <li><a href="http://www.youtube.com/bcit" title="YouTube" target="_blank"><img src="/images/icons/logo_youtube_iti.gif" alt="Youtube."></a></li>
+                    <li><a href="http://www.facebook.com/bcit.ca" title="Facebook" target="_blank"><img src="/images/icons/logo_facebook_iti.gif" alt="Facebook."></a></li>
+					<li><a href="https://plus.google.com/101799601314722199298/" title="Google Plus" target="_blank"><img src="/images/icons/logo_googleplus.gif" alt="Google Plus."></a></li>
+                    <li><a href="http://www.flickr.com/photos/bcit/sets/" title="Flickr" target="_blank"><img src="/images/icons/logo_flickr_iti.gif" alt="Flickr."></a></li>
+                    <li><a href="http://commons.bcit.ca/update/life-at-bcit/" title="Student Blogs"><img src="/images/icons/logo_wordpress_iti.gif" alt="Student blogs."></a></li>
+                    <li><a href="http://commons.bcit.ca/update/" title="The Update Blog."><img src="/images/icons/logo_update_iti.gif" alt="The Update Blog."></a></li>
+
+                </ul>
+        </div>
+        <br class="clear"><!-- sad face -->
+    </div>
+    <!-- /prospective -->
+    <!-- features -->
+    <div id="features" class="section t_main">
+    <div class="t_compartment">
+        <div id="flexispace">
+
+
+
+<div id="features_programs">
+<script type="text/javascript">
+$(document).ready(function() {
+   $("#featured_programs").bcitCycle({ timeout: 0 });
+});
+</script>
+<div id="featured_programs" class="article">
+   <h2>Featured Programs</h2>
+   <ul class="cycle_list">
+      <li class="cycle_panel">
+         <ul class="featured_programs">
+            <li><a href="/study/programs/2050ttcert">
+               <span class="program_credential">Certificate</span>
+               <span class="program_name">Joinery (Cabinetmaker) Foundation</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+            <li><a href="/study/programs/2360ttcert">
+               <span class="program_credential">Certificate</span>
+               <span class="program_name">Motorcycle and Power Equipment Technician Foundation</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+            <li><a href="/study/programs/680bascert">
+               <span class="program_credential">Advanced Certificate</span>
+               <span class="program_name">Pediatric Nursing Specialty (Standard Option)</span>
+               <span class="program_delivery">Part-time/Distance &amp; Online Learning</span>
+               </a></li>
+         </ul><!-- /.featured_programs -->
+      </li><!-- /.cycle_panel 1 -->
+      <li class="cycle_panel">
+         <ul class="featured_programs">
+            <li><a href="/study/programs/a100grcert">
+               <span class="program_credential">Graduate Certificate</span>
+               <span class="program_name">Business Administration</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+            <li><a href="/study/programs/6989ipcert">
+               <span class="program_credential">BCIT/Industry Partnership Certificate</span>
+               <span class="program_name">Office Administrator with Technology Program (OAT)</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+            <li><a href="/study/programs/2600ttcert">
+               <span class="program_credential">Certificate</span>
+               <span class="program_name">Sheet Metal Worker Foundation</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+         </ul><!-- /.featured_programs -->
+      </li><!-- /.cycle_panel 2 -->
+      <li class="cycle_panel">
+         <ul class="featured_programs">
+            <li><a href="/study/programs/825hbtech">
+               <span class="program_credential">Bachelor of Technology</span>
+               <span class="program_name">Computer Systems (Games Development Option)</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+            <li><a href="/study/programs/1010dipts">
+               <span class="program_credential">Diploma</span>
+               <span class="program_name">Aircraft Maintenance Engineer Category 'M' (Maintenance)</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+            <li><a href="/study/programs/6510diplt">
+               <span class="program_credential">Diploma</span>
+               <span class="program_name">Medical Radiography</span>
+               <span class="program_delivery">Full-time</span>
+               </a></li>
+         </ul><!-- /.featured_programs -->
+      </li><!-- /.cycle_panel 3 -->
+   </ul><!-- /.cycle_list -->
+   <div class="cycle_controls">
+      <a class="cycle_prev" href="#" title="Previous"></a>
+      <a class="cycle_next" href="#" title="Next"></a>
+   </div>
+</div><!-- /#featured_programs -->
+
+</div>
+            <div id="features_promos">
+
+<a href="http://commons.bcit.ca/50/"><img src="http://www.bcit.ca/images/entryblocks/homepage_50.png" alt="BCIT is turning 50. Learn more."></a>
+<p>
+<a href="http://www.bcit.ca/international/"><img src="http://www.bcit.ca/images/entryblocks/intseats.png" alt="International Student Seats Available.  Apply now."></a>
+</p>
+<img src="http://r.casalemedia.com/j.gif?u=180457&s=2" style="width:1px; height:1px; left:-5000px;" alt="">
+
+            </div>
+
+        </div><!-- /flexispace -->
+
+        <!-- features_news -->
+        <div id="features_news" class="tabbednews">
+            <ul class="tabbednews_nav">
+                <li class="nojs_hide"><a href="#news_blog">The Blog</a></li>
+                <li class="nojs_hide"><a href="#news_news">News</a></li>
+                <li><a href="#news_events">Events</a></li>
+            </ul>
+            <!-- news_blog -->
+            <div id="news_blog" class="article nojs_hide">
+                <h3>The Blog</h3>
+
+<div class="jfeed_result">
+<noscript>
+You need javascript enabled in order to view this content.
+</noscript>
+</div><!-- /jfeed_result -->
+
+                <p class="readmore"><a href="http://commons.bcit.ca/update/">More from the blog</a></p>
+            </div>
+            <!-- /news_blog -->
+            <!-- news_news -->
+            <div id="news_news" class="article nojs_hide">
+                <h3>News</h3>
+<div class="jfeed_result">
+<noscript>
+You need javascript enabled in order to view this content.
+</noscript>
+</div><!-- /jfeed_result -->
+                <p class="readmore"><a href=" http://commons.bcit.ca/update/for-media/news-releases/">More news</a></p>
+            </div>
+            <!-- /news_news -->
+            <!-- news_events-->
+            <div id="news_events" class="article">
+                <h3 class="hidden">Events</h3>
+                
+
+<div class="altlinks" id="campusevents">
+   <h3>Campus Events</h3>
+   <ul>
+<li><div>Mar. 24 5:30 pm - 7:30 pm<br/><a href="http://www.bcit.ca/calendar/main.php?view=event&amp;calendarid=default&amp;eventid=14181512078674">Business Administration and Operations Management</a></div></li>
+<li><div>Mar. 24 5:30 pm - 6:30 pm<br/><a href="http://www.bcit.ca/calendar/main.php?view=event&amp;calendarid=default&amp;eventid=14204987639356">Sheet Metal</a></div></li>
+<li><div>Mar. 24 6:30 pm - 8:30 pm<br/><a href="http://www.bcit.ca/calendar/main.php?view=event&amp;calendarid=default&amp;eventid=14231665485894">Fish, Wildlife and Recreation</a></div></li>
+<li><div>Mar. 24 6:30 pm - 8:30 pm<br/><a href="http://www.bcit.ca/calendar/main.php?view=event&amp;calendarid=default&amp;eventid=14231666673549">Ecological Restoration</a></div></li>
+<li><div>Mar. 25 2:30 pm - 4:00 pm<br/><a href="http://www.bcit.ca/calendar/main.php?view=event&amp;calendarid=default&amp;eventid=14217100528324">Creativity in Your Classroom - Why/How?</a></div></li>
+   </ul>
+   <div class="relatedlinks">
+      <a href="/calendar/" class="go">more campus events</a>
+      <div class="rsslink">
+         <a href="/calendar/export.php?type=rss2_0&amp;limit=5&amp;timebegin=today"><img src="/files/img/icon_rss.gif" alt="rss feed" title="rss feed"/></a>
+         <a href="/news/rss.shtml">what's this?</a>
+      </div><!-- /class=rsslink -->
+   </div><!-- /class=relatedlinks -->
+</div><!-- /id=campusevents -->
+                <p class="readmore"><a href="/calendar/">More events</a></p>
+            </div><!-- /news_events -->
+        </div><!-- /features_news -->
+        <br class="clear"><!-- sad face -->
+    </div><!-- /.section -->
+    </div>
+    <!-- /features -->
+</section><!-- /#t_content-->
+
+<!-- footer -->
+
+<div class="footeralert section t_compartment noprint">
+        <h1>FEEDBACK WANTED: Love it? Hate it? <a href="/its/web/feedback.shtml">Let us know</a> how BCIT's website is working for you.</h1>
+</div>
+
+
+
+<footer id="footer" class="noprint">
+	<h1 class="ally">Footer Navigation</h1>
+    <div class="section">
+    <div class="t_compartment">
+        <div id="footer_about" class="article">
+
+        <h2>About BCIT</h2>
+
+        <a class="fancybox fancybox.iframe" title="BCIT 50. More Than Ready." href="/ssi/fancybox/bcit50.shtml"><img src="/images/entryblocks/footer_video_thumb.jpg" alt="Click to watch the short video 'BCIT 50, More than ready'"></a>
+<p>Different than a college or university, BCIT's approach combines small classes, applied academics and hands-on experience so that you're ready to launch your career from day one. </p>
+<p><a class="fancybox fancybox.iframe" title="BCIT 50." href="/ssi/fancybox/bcit50.shtml">Play video</a></p>
+
+       </div>
+        <!-- footer_handy -->
+        <nav id="footer_handy" class="article"><h2>Campuses</h2>
+            <ul>
+                <li><a href="/about/burnaby.shtml">Burnaby </a></li>
+                <li><a href="/about/downtown.shtml">Downtown</a></li>
+                <li><a href="/about/marine.shtml">Marine</a></li>
+                <li><a href="/about/aerospace.shtml">Aerospace</a></li>
+                <li><a href="/about/annacis.shtml">Annacis Island</a></li>
+                <li><a href="/about/satellite.shtml">Satellite Locations</a></li>
+
+            </ul>
+        </nav>
+        <!-- /footer_handy -->
+        <!-- footer_findus -->
+		<div id="footer_findus" class="article"><h2><span class="ally">Find Us</span>&nbsp;</h2>
+            <div class="vcard">
+
+                <span class="fn org">British Columbia Institute of Technology</span><br>
+                <span class="adr">
+                    <span class="street-address">3700 Willingdon Avenue</span><br>
+                    <span class="locality">Burnaby</span>, <span class="region">British Columbia</span><br>
+                    <span class="country-name">Canada</span>, <span class="postal-code">V5G 3H2</span><br>
+                </span>
+
+                <span class="tel">Telephone: <span class="type">work</span><span class="value">604-434-5734</span></span><br>
+                <span class="tel">Toll-free (Can/US): <span class="type">work</span><span class="value">1-866-434-1610</span></span>
+            </div>
+
+            <a href="/contacts/" class="readmore">More contact numbers</a>
+        </div>
+        <!-- /footer_findus -->
+
+
+    <p class="fineprint t_compartment" role="contentinfo">
+        <a id="footer_home" href="/">Home</a>
+        <span id="footer_webmaster">Problems with this page? Please <a href="/its/web/feedback.shtml?from=http://www.bcit.ca/">let us know</a>.</span>
+        <a id="footer_copyright" href="/copyright/">Copyright</a>
+        <a id="footer_privacy" href="/privacy/">Privacy</a>
+    </p>
+
+    </div>
+
+
+    </div><!-- /geeisurecouldusemultiplebackgrounds -->
+
+</footer>
+
+
+
+<!-- ANALYICS -->
+<script>
+    if (typeof(gatag_setup)=='function') {
+       gatag_setup();
+    }
+    if (typeof(_gat)=='object') {  
+       var pageTracker = _gat._getTracker("UA-244235-1");
+       pageTracker._setDomainName("none");
+       pageTracker._setAllowLinker(true);
+       pageTracker._trackPageview();
+    }
+</script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+uncomment extension=php_curl.dll in php.ini
+copy libeay32.dll and ssleay32.dll into your windoews folder in c drive (downloaded from openssl)
+restart the web server
